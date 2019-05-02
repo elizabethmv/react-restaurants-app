@@ -100,4 +100,5 @@ class SearchBox extends Component {
 
 }
 
+{/* Adding this comment for pull request master -> evaluation */}
 export default SearchBox;
